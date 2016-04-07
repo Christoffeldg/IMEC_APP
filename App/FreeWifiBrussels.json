@@ -2,19 +2,18 @@
     "type": "FeatureCollection",
     "features": [
         {
-
-            "type": "Feature",
-            "id": "coverage_points_diffusion.fid--532efe82_153ef5cfd52_-659b",
-            "geometry": { "type": "Point", "coordinates": [ 4.341219499445214, 50.80179318583329 ] },
-            "geometry_name": "GEOM",
-            "properties": { "ID": 30751, "ID_EXTERNE": null, "NOM_SITE": "Guichets Zone de police/Politiezone loketten", "CLIENT": null, "TYPE_CLIENT": null, "AP_COUNT": null, "INTERV_CIRB": "0", "PARTICIP_CIRB": null, "REF": null, "STATUT": "OPERATIONNEL", "DATE_REALISATION": null, "LIEU_INSTALLATION": null }
+            "TYPE": "FEATURE",
+            "ID": "COVERAGE_POINTS_DIFFUSION.FID--532EFE82_153EF5CFD52_-659B",
+            "GEOMETRY": { "TYPE": "POINT", "COORDINATES": [ 4.341219499445214, 50.80179318583329 ] },
+            "GEOMETRY_NAME": "GEOM",
+            "PROPERTIES": { "ID": 30751, "ID_EXTERNE": NULL, "NOM_SITE": "GUICHETS ZONE DE POLICE/POLITIEZONE LOKETTEN", "CLIENT": NULL, "TYPE_CLIENT": NULL, "AP_COUNT": NULL, "INTERV_CIRB": "0", "PARTICIP_CIRB": NULL, "REF": NULL, "STATUT": "OPERATIONNEL", "DATE_REALISATION": NULL, "LIEU_INSTALLATION": NULL }
         },
         {
-            "type": "Feature",
-            "id": "coverage_points_diffusion.fid--532efe82_153ef5cfd52_-659a",
-            "geometry": { "type": "Point", "coordinates": [ 4.360278384945535, 50.86074668674176 ] },
-            "geometry_name": "GEOM",
-            "properties": { "ID": 22957, "ID_EXTERNE": null, "NOM_SITE": "Gare du Nord/Noordstation", "CLIENT": "HALL CCN", "TYPE_CLIENT": "CIRB", "AP_COUNT": 2, "INTERV_CIRB": "1", "PARTICIP_CIRB": null, "REF": null, "STATUT": "OPERATIONNEL", "DATE_REALISATION": null, "LIEU_INSTALLATION": "HALL CCN Rue du Progrès 80" }
+            "TYPE": "FEATURE",
+            "ID": "COVERAGE_POINTS_DIFFUSION.FID--532EFE82_153EF5CFD52_-659A",
+            "GEOMETRY": { "TYPE": "POINT", "COORDINATES": [ 4.360278384945535, 50.86074668674176 ] },
+            "GEOMETRY_NAME": "GEOM",
+            "PROPERTIES": { "ID": 22957, "ID_EXTERNE": NULL, "NOM_SITE": "GARE DU NORD/NOORDSTATION", "CLIENT": "HALL CCN", "TYPE_CLIENT": "CIRB", "AP_COUNT": 2, "INTERV_CIRB": "1", "PARTICIP_CIRB": NULL, "REF": NULL, "STATUT": "OPERATIONNEL", "DATE_REALISATION": NULL, "LIEU_INSTALLATION": "HALL CCN RUE DU PROGRÈS 80" }
         },
         { "type": "Feature", "id": "coverage_points_diffusion.fid--532efe82_153ef5cfd52_-6599", "geometry": { "type": "Point", "coordinates": [ 4.349733985647129, 50.848608517192694 ] }, "geometry_name": "GEOM", "properties": { "ID": 30744, "ID_EXTERNE": null, "NOM_SITE": "Place de la Bourse / Bld Anspach/Beursplein /Anspachlaan", "CLIENT": null, "TYPE_CLIENT": null, "AP_COUNT": null, "INTERV_CIRB": "0", "PARTICIP_CIRB": null, "REF": null, "STATUT": "OPERATIONNEL", "DATE_REALISATION": null, "LIEU_INSTALLATION": null } },
         { "type": "Feature", "id": "coverage_points_diffusion.fid--532efe82_153ef5cfd52_-6598", "geometry": { "type": "Point", "coordinates": [ 4.349711335528206, 50.84888441716067 ] }, "geometry_name": "GEOM", "properties": { "ID": 30745, "ID_EXTERNE": null, "NOM_SITE": "Guichets Actiris Anspach/Actiris loketten - Anspach", "CLIENT": null, "TYPE_CLIENT": null, "AP_COUNT": null, "INTERV_CIRB": "0", "PARTICIP_CIRB": null, "REF": null, "STATUT": "OPERATIONNEL", "DATE_REALISATION": null, "LIEU_INSTALLATION": null } },
